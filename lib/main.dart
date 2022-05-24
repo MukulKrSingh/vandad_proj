@@ -12,7 +12,7 @@ extension Log on Object {
 void main() {
   runApp(const MyApp());
 
-  //GO
+  
 }
 
 //Json Model class
